@@ -6,6 +6,13 @@ I am passionate about tech and I love learning new things. Outside of work, I ti
 
 [Portfolio](https://chrispaganon.com) · [Codeberg](https://codeberg.org/chris-paganon) · [LinkedIn](https://linkedin.com/in/chrispaganon) · [Email](mailto:info@chrispaganon.com)
 
+## Experience
+
+- **[Plutaro](https://chrispaganon.com/work/plutaro) — Lead Full-stack Developer** (August 2024–July 2026). Led development of web apps and AI products while mentoring junior engineers and coordinating projects.
+- **[Progexia](https://chrispaganon.com/work/progexia) — Full-stack web developer** (October 2022–June 2024). Built client dashboards, dynamic forms, and websites using Vue, Express, PHP, and WordPress.
+- **[Panier Québécois](https://chrispaganon.com/work/panier-quebecois) — Technical Co-founder** (April 2020–October 2022). Built and maintained an online farmer’s market platform in Montréal while managing business operations and logistics.
+- **[Qube 4D Ventures](https://chrispaganon.com/work/qube-4d) — Mechanical Engineer** (July 2018–April 2020). Designed and tested mechanical prototypes and coordinated with manufacturers to bring hardware products to production.
+
 ## Projects
 
 - **DockIY** — Open-source Docker platform for self-hosting web apps on one VPS. [Docs](https://dockiy.com) · [Codeberg](https://codeberg.org/chris-paganon/dockiy)
