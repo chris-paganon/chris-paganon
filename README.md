@@ -4,7 +4,9 @@ Senior lead full-stack engineer from France & Canada, specializing in TypeScript
 
 I am passionate about tech and I love learning new things. Outside of work, I tinker with Linux, experiment with AI agents, and build open-source tools.
 
-[Portfolio](https://chrispaganon.com) · [Codeberg](https://codeberg.org/chris-paganon) · [LinkedIn](https://linkedin.com/in/chrispaganon) · [Email](mailto:info@chrispaganon.com)
+All of my code is now on [Codeberg](https://codeberg.org/chris-paganon) and my own [self-hosted instance of Forgejo](https://forgejo.chrispaganon.com/chris-paganon). My GitHub mostly contains placeholder repos now.
+
+[Portfolio](https://chrispaganon.com) · [Codeberg](https://codeberg.org/chris-paganon) · [LinkedIn](https://linkedin.com/in/chrispaganon)
 
 ## Experience
 
